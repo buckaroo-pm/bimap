@@ -1,1 +1,5 @@
 targets = [ "//:bimap" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-multi_index"
+version = "branch=master"
